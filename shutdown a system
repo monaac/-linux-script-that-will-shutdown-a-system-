@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Shut down the system
+shutdown -h now
