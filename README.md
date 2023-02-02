@@ -1,0 +1,1 @@
+This script can be saved as a file with a .sh extension, made executable using chmod +x filename.sh, and run with ./filename.sh to shut down the system. The -h option in the shutdown command is used to specify that the system should be shut down and powered off. The now argument specifies that the shutdown should happen immediately.
